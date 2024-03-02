@@ -1,6 +1,14 @@
 # envasadora
 Máquina de envasado con SIMATIC S7-1200
 
+La estructura de la cinta transportadora está sacada de la web del CIFP Medina del campo, modificando la anchura del rodillo de la cinta para adecuarlo a un banda transportadora de 40 mm.
+
+La reductora del motor también es originalmente del CIFP Medina del campo, con modificaciones para los soportes laterales de la caja. Los enlaces a la fuente original están archivos .txt dentro de la carpeta freeCAD.
+
+El resto de accesorios de la cinta son originales, para el soporte de sensores, cámara, Ardunio Uno, servo, Raspberry Pi y encoder. 
+
+Los laterales de la cinta transportadora están formados por tapas de canal protectora de 15 mm, aunque también se podrían imprimir. 
+
 Estrucutra de directorios:
 
 - info, incluye algunos archivos descriptivos de la máquina y videos de presentación de la misma.
