@@ -9,7 +9,7 @@ El resto de accesorios de la cinta son originales, para el soporte de sensores, 
 
 Los laterales de la cinta transportadora están formados por tapas de canal protectora de 15 mm, aunque también se podrían imprimir. 
 
-Estrucutra de directorios:
+Estructura de directorios:
 
 - info, incluye algunos archivos descriptivos de la máquina y videos de presentación de la misma.
 - freeCAD, incluye todos los modelos necesarios para construir la cinta transportadora y el resto de accesorios.
