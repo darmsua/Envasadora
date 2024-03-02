@@ -1,5 +1,7 @@
-# envasadora
+# Máquina envasadora
 Máquina de envasado con SIMATIC S7-1200
+
+![Imagen de la maqueta](/info/1709402578558.jpg)
 
 La estructura de la cinta transportadora está sacada de la web del CIFP Medina del campo, modificando la anchura del rodillo de la cinta para adecuarlo a un banda transportadora de 40 mm.
 
