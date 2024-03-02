@@ -3,6 +3,7 @@ Máquina de envasado con SIMATIC S7-1200
 
 Estrucutra de directorios:
 
+- info, incluye algunos archivos descriptivos de la máquina y videos de presentación de la misma.
 - freeCAD, incluye todos los modelos necesarios para construir la cinta transportadora y el resto de accesorios.
     Están diseñados en FreCAD 0.21.1 y pueden modificarse fácilmente.
 - gld, incluye todos los archivos en formato .gld para imprimirlos directamente. Se utilizó un perfil de imperosora Artillery Genius.
